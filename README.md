@@ -13,6 +13,11 @@ Se desarrolló un estudio enfocado en:
 🚚 Costo de envío promedio por tienda
 📊 Visualización de métricas clave# challenge-analisis-de-tiendas
 Analisis de datos de tiendas de comercio
+📂 AluraStoreLatam
+ ├── 📓 AluraStoreLatam.ipynb     # Notebook con el análisis
+ ├── 📊 Gráficos generados        # (opcional en caso de exportar)
+ └── 📄 README.md                 # Documentación del proyecto
+
 🧠 Tecnologías Utilizadas
 Herramienta	Uso
 Python	Análisis de datos
